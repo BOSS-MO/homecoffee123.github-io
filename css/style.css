@@ -787,6 +787,7 @@ section{
 	
 	.backgrondimg{
 		width:420px;
+		height:900px;
 	}
 	
 	.menu-banner {
@@ -797,50 +798,53 @@ section{
 	
 	/*Chỉnh Menu thư mục Cà Phê*/
 	.menu-option-1{
-		padding:320px 50px;
+		padding:300px 40px;
+		margin-top:150px;
+		margin-left:50px;
 	}
 	
 	.choice{
-		font-size:10px;
+		font-size:15px;
 		padding-left:80px;	
 	}
 	
 	.price-3{
-		font-size:10px;
-		padding-left:10px;	
+		font-size:15px;
+		padding-left:20px;	
 	}
 	
 	.menu-option-2{
 		font-size:10px;
-		padding:320px 170px;	
+		padding:320px 160px;	
 	}
 	
 	.choice-1{
-		font-size:10px;
+		font-size:12px;
 		padding-left:70px;	
 	}
 	
 	.price-1 {
-		font-size:10px;
-		padding-top:97px;
+		font-size:12px;
+		padding-top:84px;
 		padding-left:250px;	
 		margin-left:-180px;
 		
 	}
 	
 	.menu-option-3{
-		font-size:10px;
-		padding:320px 300px;	
+		font-size:15px;
+		padding:320px 270px;	
+		margin-top:130px;
 	}
 	
 	.choice-2{
-		font-size:10px;
-		padding-left:45px;	
+		font-size:15px;
+		padding-left:0px;	
 	}
 	
 	.price-2 {
-		font-size:10px;
-		padding-top:77px;
+		font-size:15px;
+		padding-top:53px;
 		margin-left:65px;	
 	}
 	
